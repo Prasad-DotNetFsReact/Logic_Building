@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\bin\Debug\net8.0\HappyJourney.exe
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\bin\Debug\net8.0\HappyJourney.deps.json
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\bin\Debug\net8.0\HappyJourney.runtimeconfig.json
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\bin\Debug\net8.0\HappyJourney.dll
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\bin\Debug\net8.0\HappyJourney.pdb
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.dll
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\refint\HappyJourney.dll
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.pdb
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\HappyJourney.genruntimeconfig.cache
+C:\Users\Admin\source\repos\HappyJourney\HappyJourney\obj\Debug\net8.0\ref\HappyJourney.dll
