@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\bin\Debug\net8.0\SecondDay.exe
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\bin\Debug\net8.0\SecondDay.deps.json
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\bin\Debug\net8.0\SecondDay.runtimeconfig.json
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\bin\Debug\net8.0\SecondDay.dll
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\bin\Debug\net8.0\SecondDay.pdb
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.dll
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\refint\SecondDay.dll
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.pdb
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\SecondDay.genruntimeconfig.cache
+C:\Users\Admin\source\repos\HappyJourney\SecondDay\obj\Debug\net8.0\ref\SecondDay.dll
